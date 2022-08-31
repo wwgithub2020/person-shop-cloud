@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shop-gateway" />
+        <module name="shop-spring-boot-starter-redis" />
+        <module name="shop-order-impl" />
+        <module name="shop-spring-boot-starter-file" />
+        <module name="shop-pay-impl" />
+        <module name="shop-spring-boot-starter-web" />
+        <module name="shop-generator" />
+        <module name="shop-dependencies" />
+        <module name="shop-spring-boot-starter-job" />
+        <module name="shop-pay-api" />
+        <module name="shop-order-api" />
+        <module name="shop-spring-boot-starter-mybatis" />
+        <module name="shop-system-api" />
+        <module name="shop-spring-boot-starter-excel" />
+        <module name="shop-common" />
+        <module name="shop-system-impl" />
+        <module name="shop-spring-boot-starter-oss" />
+        <module name="shop-communal" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shop-cmmon" target="8" />
+      <module name="shop-common" target="8" />
+      <module name="shop-spring-boot-strter-mybatis" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="person-shop-cloud" options="-parameters" />
+      <module name="shop-dependencies" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\core\dataobject\BaseDO.java
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\core\enums\SqlConstants.java
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\core\mapper\CommonMapper.java
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\core\query\QueryWrapperX.java
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\core\enums\DeletedStatusEnum.java
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\core\query\LambdaQueryWrapperX.java
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\config\MybatisPlusAutoConfiguration.java
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\core\mapper\BaseMapperX.java
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\core\handler\DefaultDBFieldHandler.java
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\core\injector\method\InsertByBatch.java
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\core\utils\MyBatisUtils.java
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\core\injector\CustomerSqlInjector.java
+D:\idea-work-space\person-shop-cloud\shop-framework\shop-spring-boot-starter-mybatis\src\main\java\com\shop\mybatis\core\enums\CustomSqlMethodEnum.java

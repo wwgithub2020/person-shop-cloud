@@ -1,0 +1,14 @@
+com\shop\mybatis\core\mapper\BaseMapperX.class
+com\shop\mybatis\core\dataobject\BaseDO.class
+com\shop\mybatis\core\handler\DefaultDBFieldHandler.class
+com\shop\mybatis\core\query\LambdaQueryWrapperX.class
+com\shop\mybatis\core\mapper\CommonMapper.class
+com\shop\mybatis\core\enums\DeletedStatusEnum.class
+com\shop\mybatis\core\query\QueryWrapperX$1.class
+com\shop\mybatis\config\MybatisPlusAutoConfiguration.class
+com\shop\mybatis\core\injector\method\InsertByBatch.class
+com\shop\mybatis\core\enums\SqlConstants.class
+com\shop\mybatis\core\query\QueryWrapperX.class
+com\shop\mybatis\core\injector\CustomerSqlInjector.class
+com\shop\mybatis\core\enums\CustomSqlMethodEnum.class
+com\shop\mybatis\core\utils\MyBatisUtils.class
