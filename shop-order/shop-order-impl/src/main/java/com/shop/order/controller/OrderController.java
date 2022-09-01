@@ -2,7 +2,7 @@ package com.shop.order.controller;
 
 import com.shop.common.framework.domain.CommonResult;
 import com.shop.order.service.OrderService;
-import com.shop.order.vo.request.OrderCreateVO;
+import com.shop.order.model.vo.request.OrderCreateVO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package com.shop.order.vo.request;
+package com.shop.order.model.vo.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

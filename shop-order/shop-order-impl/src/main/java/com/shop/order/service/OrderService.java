@@ -1,6 +1,6 @@
 package com.shop.order.service;
 
-import com.shop.order.vo.request.OrderCreateVO;
+import com.shop.order.model.vo.request.OrderCreateVO;
 
 /**
  * @Date: 2022/7/24 17:12
