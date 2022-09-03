@@ -19,4 +19,9 @@ public class OrderServiceImpl implements OrderService {
     public Integer create(OrderCreateVO createVO) {
         return orderService.create(createVO);
     }
+
+    @Override
+    public Boolean delete(Long id) {
+        return orderService.delete(id);
+    }
 }

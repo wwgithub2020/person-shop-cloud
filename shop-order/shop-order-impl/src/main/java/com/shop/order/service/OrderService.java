@@ -10,4 +10,6 @@ import com.shop.order.model.vo.request.OrderCreateVO;
 public interface OrderService {
 
     Integer create(OrderCreateVO createVO);
+
+    Boolean delete(Long id);
 }
